@@ -1,0 +1,24 @@
+{
+    "Skills": 
+            {
+                "1": "I am proficient in Microsoft Excel and Power BI, where I create insightful and visually appealing dashboards for data analysis, modeling, cleaning, and visualization tasks.",
+                "2": "I possess strong SQL skills, having mastered fundamentals such as joins, CTEs, window functions, and group by operations for efficient data manipulation and analysis.",
+                "3": "I have a solid foundation in Machine Learning and AI, specializing in building predictive models using scikit-learn.",
+                "4": "I am experienced in working with neural networks, utilizing PyTorch and TensorFlow to develop and optimize complex AI models.",
+                "5": "I have developed expertise in Computer Vision, particularly with Convolutional Neural Networks (CNN), ResNet, and YOLO, focusing on model fine-tuning and advanced image analysis techniques such as object detection, segmentation, and classification.",
+                "6": "I possess a strong understanding of Natural Language Processing and Large Language Models (LLMs), using tools like NLTK, LangChain, LangGraph, and Chainlit for chatbot development and various NLP projects.",
+                "7": "I am capable of creating backends using FastAPI.",
+                "8": "I can perform Exploratory Data Analysis (EDA) on datasets using Python to extract valuable insights."
+            },
+
+    "Certifications":
+            {
+                "1": "I hold a certification in Data Analysis, which has enhanced my skills in Power BI, Python, Excel, and SQL.",
+                "2": "I have a certification in Data Science and AI, which has refined my expertise in computer vision, machine learning, deep learning, natural language processing, and MLOps."
+            },
+
+    "Experience": 
+            {
+                "1": "I have gained experience at a prestigious software company in Pakistan, Crewlogix Technologies, where I applied my skills in Python, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Chatbot Development and Backend Development."
+            }
+}
